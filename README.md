@@ -27,3 +27,5 @@ Released under the [WTFPL](http://www.wtfpl.net).
 ![](./screenshots/ss5.jpg)
 
 *iPad becomes a controller*
+
+![](./screenshots/animated.gif)
