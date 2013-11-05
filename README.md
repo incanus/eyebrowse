@@ -7,3 +7,23 @@ This little app gives you a web view (say, for a kiosk or other display) and let
 You can also scroll on your iPad to make the web view scroll simultaneously on your TV. 
 
 Released under the [WTFPL](http://www.wtfpl.net). 
+
+![](./screenshots/ss1.jpg)
+
+*Load up a web page*
+
+![](./screenshots/ss2.jpg)
+
+*Your TV shows an empty screen*
+
+![](./screenshots/ss3.jpg)
+
+*Press the Play button*
+
+![](./screenshots/ss4.jpg)
+
+*The ol' Switcheroo*
+
+![](./screenshots/ss5.jpg)
+
+*iPad becomes a controller*
