@@ -3,7 +3,7 @@
 //  eyebrowse
 //
 //  Created by Justin R. Miller on 11/4/13.
-//  Copyright (c) 2013 MapBox. All rights reserved.
+//  Copyright (c) 2013 Code Sorcery Workshop. All rights reserved.
 //
 
 #import "EBViewController.h"
